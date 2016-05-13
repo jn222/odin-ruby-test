@@ -14,7 +14,7 @@
 # nested closures
 # "builder pattern"
 
-require "xml_document"
+require "./xml_document"
 
 describe XmlDocument do
   before do
